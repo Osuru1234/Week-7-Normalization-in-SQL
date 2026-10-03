@@ -1,0 +1,2 @@
+-- V3: Category hierarchy is already configured.
+-- categories table contains the self-referencing parent_id relationship.

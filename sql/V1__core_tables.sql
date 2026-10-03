@@ -1,0 +1,2 @@
+-- V1: Core tables already created in the bootcamp database.
+-- This migration records the starting point for Flyway.

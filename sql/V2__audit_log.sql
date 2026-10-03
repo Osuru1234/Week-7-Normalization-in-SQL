@@ -1,0 +1,2 @@
+-- V2: Audit logging is already configured.
+-- audit_log table, audit() function, and trg_audit trigger exist.
